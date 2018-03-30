@@ -1,3 +1,2 @@
-1；第一句话
-第二
-第三
+Git is a distributed version control system.
+Git is free software.
